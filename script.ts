@@ -5,7 +5,7 @@ const input = (document.querySelector("#input") as HTMLInputElement) //Console.R
 const app = (document.querySelector("#app") as HTMLDivElement) // CW
 
 
-const API_KEy="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"
+const API_KEy="YOUR_KEY"
 const API_URL="https://api.openai.com/v1/chat/completions"
 
 interface Users{
